@@ -1,0 +1,26 @@
+{
+  "name": "camp202011-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.14.9",
+    "eslint": "^7.14.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nbkobayashi@github.com/nbkobayashi/camp202011-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbkobayashi/camp202011-react/issues"
+  },
+  "homepage": "https://github.com/nbkobayashi/camp202011-react#readme"
+}
